@@ -1,5 +1,5 @@
 {
-	"name": "got",
+	"name": "@sysini/got",
 	"version": "11.8.3",
 	"description": "Human-friendly and powerful HTTP request library for Node.js",
 	"license": "MIT",
